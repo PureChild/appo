@@ -1,0 +1,7 @@
+{
+  "name": "project1_calculator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
